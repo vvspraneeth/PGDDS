@@ -41,6 +41,6 @@ Predicted telecom customers likely to churn with 85% accuracy by analyzing 7000+
 
 ### [9] E-Commerce Capstone Project:
 
-Performed risk analytics on the customers of a bank to identify the probable defaulters and also developed application scorecard to identify any defaulters among the new credit applications.
+Performed a market mix modelling to observe the actual impact of different marketing variables over the last year. By explaining the best models recommended the variables/features and their importance in predicting future sales.
 
 
