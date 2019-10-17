@@ -33,6 +33,7 @@ Developed a classification model for an online Education Company to predict the 
 ### [7] MNIST Digit Recognition:
 
 Developed classification model using SVM and Random Forest to identify digits from a dataset of tens of thousands of handwritten images. 
+Kaggle URL : https://www.kaggle.com/c/digit-recognizer
 
 ### [8] Telecom Churn Case Study:
 
